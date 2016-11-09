@@ -1,0 +1,41 @@
+.image {
+	width: 667px;
+	height: 667px;
+    opacity: 0.5;
+    margin: 45px 0px 0px -10px;
+}
+
+.texte__lien {
+	font-size: 18px;
+    color: #d17d8b;
+    text-decoration: none;
+}
+
+
+.logo {
+	opacity: 0.8;
+	height: 48px;
+    margin: 217px 0px 0px 107px;
+ }
+
+
+.contact {
+	float: left;
+    padding: 0px;
+    list-style: none;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.info__moi {
+font-family: 'Lucida Bright';
+font-size: 18px;
+line-height:1.7;
+
+color: #333333;
+padding: 0px 30px 16px 32px;
+width: 527px;
+height: 626px;
+float: right;
+margin: 153px 163px 0px 0px;
+}
